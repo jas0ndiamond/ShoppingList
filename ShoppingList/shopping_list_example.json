@@ -1,0 +1,107 @@
+{
+    "Section": {
+        "Subsection1": [
+            "Item1",
+            "Item2",
+            "Item3"
+        ],
+        "Item1": [
+            "Note1",
+            "Note2",
+            "Note3"
+        ],
+        "Item2": []
+    },
+    "Food": {
+        "Priority": [
+            "Eggs",
+            "Pepper mills x4",
+            "Citronella candles"
+        ],
+        "Meat": [
+            "Beef",
+            "Chicken",
+            "Pork",
+            "Shrimp",
+            "Smoked Salmon",
+            "Eggs"
+        ],
+        "Veggies": [
+            "Onions",
+            "Garlic",
+            "Frozen Broccoli",
+            "Frozen Peppers"
+        ],
+        "Kitchen Supplies": [
+            "Paper towels",
+            "Dish detergent",
+            "Plastic wrap",
+            "Plastic bags"
+        ],
+        "Fruit": [
+            "Bananas",
+            "Oranges"
+        ],
+        "Snacks": [
+            "Crackers",
+            "Cheese"
+        ],
+        "Staples": [
+            "Pasta",
+            "Pasta Sauce",
+            "Coffee",
+            "Rice",
+            "Hot sauce",
+            "BBQ sauce",
+            "Chipotle peppers",
+            "Red chilis"
+        ],
+        "Spices": [
+            "Salt",
+            "Pepper",
+            "Cumin",
+            "Crushed red pepper",
+            "Onion powder"
+        ],
+        "Other": [
+            "Citronella candles",
+            "Scented candles"
+        ]
+    },
+    "Home": {
+        "Rug": [
+            "10'x12'"
+        ],
+        "Plastic ADK chairs": [
+            "x4"
+        ],
+        "Folding chairs": [
+            "x2"
+        ],
+        "Storage bins": [
+            "x4"
+        ],
+        "Compost bin": [
+            "x1"
+        ],
+        "Hose": [
+            "30ft"
+        ],
+        "Hose spout": [],
+        "Egg slicer": [],
+        "Juicer": [],
+        "Funnels": [],
+        "Pepper mills": [
+            "x4"
+        ]
+    },
+    "Misc": {},
+    "Tools": {
+        "Palm Sander": [],
+        "Shop vac": [],
+        "Extension chord": [
+            "50 ft"
+        ],
+        "Mitre box": []
+    }
+}
